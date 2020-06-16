@@ -1,4 +1,4 @@
-import { Universe, Cell } from "rusty-justy-wasm";
+import { Universe } from "rusty-justy-wasm";
 import { memory } from "rusty-justy-wasm/rusty_justy_wasm_bg"
 
 const CELL_SIZE = 5;
